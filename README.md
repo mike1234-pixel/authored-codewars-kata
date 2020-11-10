@@ -1,4 +1,4 @@
-![codewars](https://user-images.githubusercontent.com/57681651/98571078-0e9fb900-22ac-11eb-8a37-f8ae81d63a21.jpg)
+[![codewars](https://user-images.githubusercontent.com/57681651/98571078-0e9fb900-22ac-11eb-8a37-f8ae81d63a21.jpg)](https://www.codewars.com/kata/5ef363092d5f260028d862e4)
 
 # Create Bing Search Engine
 
@@ -25,3 +25,4 @@ Example:
    - `websiteList = ["catphotos.com","jumanji.com","googlesucks.com","catcraycray.com"];`
    - function should return `["catphotos.com", "catcraycray.com"];`
 
+[Try the kata](https://www.codewars.com/kata/5ef363092d5f260028d862e4)
