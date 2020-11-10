@@ -1,6 +1,6 @@
-[![codewars](https://user-images.githubusercontent.com/57681651/98571078-0e9fb900-22ac-11eb-8a37-f8ae81d63a21.jpg)](https://www.codewars.com/kata/5ef363092d5f260028d862e4)
-
 # Create Bing Search Engine
+
+[![codewars](https://user-images.githubusercontent.com/57681651/98571078-0e9fb900-22ac-11eb-8a37-f8ae81d63a21.jpg)](https://www.codewars.com/kata/5ef363092d5f260028d862e4)
 
 Microsoft's Bing is the **most celebrated and popular** search engine on the web.
 
